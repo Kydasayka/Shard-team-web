@@ -6,3 +6,8 @@
 
 * [Главная страница | Game Shard](gs/main.md)
 * [Правила | Game Shard](gs/rules.md)
+
+## Методичка для разработчиков <a href="#dev" id="dev"></a>
+
+* [Введение](dev/main.md)
+* [Anti-DDoS защита для Minecraft сервера](dev/ddos.md)
