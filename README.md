@@ -1,10 +1,3 @@
----
-description: Welcome to your team’s developer platform
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
----
-
 # Главная страница | Shard Team
 
 <figure><img src=".gitbook/assets/shard_team.png" alt=""><figcaption></figcaption></figure>
